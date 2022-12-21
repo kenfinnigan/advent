@@ -23,7 +23,7 @@ class AppDec8Test {
     }
 
     @Test
-    void testFindSmallestDirectoryToDelete() {
+    void testHighestTreeSceneScore() {
         List<String> inputLines = Arrays.asList(
             "30373",
             "25512",
